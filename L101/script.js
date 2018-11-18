@@ -1,0 +1,1 @@
+alert("ufro rtul ragaceebze gadasvlis droa");
